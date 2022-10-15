@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection
-For this project, I built a credit card fraud detection system using the logistic regression model with Python. 
+A credit card fraud detection system is built using the logistic regression model with Python.
